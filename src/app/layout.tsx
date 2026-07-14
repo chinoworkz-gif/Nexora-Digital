@@ -15,7 +15,7 @@ const geist = Geist({
  * const siteUrl = "https://nexora-digital.vercel.app";
  * const siteUrl = "https://nexoradigital.com";
  */
-const siteUrl = "https://nexoradigital.com";
+const siteUrl = "https://nexora-digital-eta.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
